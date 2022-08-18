@@ -3,7 +3,7 @@
 <h3 align="center">A developer web junior from Amiens, France</h3>
 
 <p>- 🌱 I’m currently learning **HTML5, CSS3, Javascript, PHP, SQL**</p>
-<a>- 📫 You can <a mailto="ferrarioloic.web@gmail.com">send me an email</a> at **ferrarioloic.web@gmail.com**</p>
+<a>- 📫 You can <a href="mailto:ferrarioloic.web@gmail.com">send me an email</a> at **ferrarioloic.web@gmail.com**</p>
 <p>- 📄 Know about my experiences https://ferrarioloic.github.io/CVNumerique/</p>
 <p>- ⚡ Fun fact **I created alone the E-learning site of my company**</p>
 

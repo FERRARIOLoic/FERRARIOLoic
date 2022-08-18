@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm FERRARIO Loïc</h1>
 <h3 align="center">A developer web junior from Amiens, France</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript ,SQL**
-
-- 📫 How to reach me **ferrarioloic.web@gmail.com**
-
-- 📄 Know about my experiences [https://ferrarioloic.github.io/CVNumerique/)
-
-- ⚡ Fun fact **I created alone the E-learning site of my company**
+<p>- 🌱 I’m currently learning **HTML5, CSS3, Javascript, PHP, SQL**</p>
+<a>- 📫 You can <a mailto="ferrarioloic.web@gmail.com">send me an email</a> at **ferrarioloic.web@gmail.com**</p>
+<p>- 📄 Know about my experiences https://ferrarioloic.github.io/CVNumerique/</p>
+<p>- ⚡ Fun fact **I created alone the E-learning site of my company**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

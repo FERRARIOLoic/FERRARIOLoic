@@ -1,33 +1,12 @@
 
- 
-@FERRARIOLoic 
-Dracow
-/
-Dracow
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Mrbeagels/README.md
-@Mrbeagels
-Mrbeagels Update README.md
-Latest commit e4ed37e 4 minutes ago
- History
- 1 contributor
-18 lines (12 sloc)  3.4 KB
-
-<h1 align="center">Hi 👋, I'm Thibaud</h1>
+<h1 align="center">Hi 👋, I'm FERRARIO Loïc</h1>
 <h3 align="center">A developer web junior from Amiens, France</h3>
 
 - 🌱 I’m currently learning **Php, sql and back-end**
 
-- 📫 How to reach me **thibaud.marin1@gmail.com**
+- 📫 How to reach me **ferrarioloic.web@gmail.com**
 
-- 📄 Know about my experiences [https://mrbeagels.github.io/CV-numerique/](https://mrbeagels.github.io/CV-numerique/)
+- 📄 Know about my experiences [https://ferrarioloic.github.io/CVNumerique/)
 
 - ⚡ Fun fact **5 years as a cook, so i know how to let off steam.**
 

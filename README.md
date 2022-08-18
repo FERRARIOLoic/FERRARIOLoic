@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm FERRARIO Loïc</h1>
 <h3 align="center">A developer web junior from Amiens, France</h3>
 
-- 🌱 I’m currently learning **Php, sql and back-end**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript ,SQL**
 
 - 📫 How to reach me **ferrarioloic.web@gmail.com**
 

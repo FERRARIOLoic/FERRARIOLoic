@@ -8,11 +8,11 @@
 
 - 📄 Know about my experiences [https://ferrarioloic.github.io/CVNumerique/)
 
-- ⚡ Fun fact **5 years as a cook, so i know how to let off steam.**
+- ⚡ Fun fact **I created alone the E-learning site of my company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thibaud-marin-25a0b023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaud marin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lo%C3%AFc-ferrario-bba4b3182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaud marin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

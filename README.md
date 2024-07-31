@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm FERRARIO Loïc</h1>
 <h3 align="center">A developer web junior from Amiens, France</h3>
 
-<p>- 🌱 I’m currently learning **HTML5, CSS3, Javascript, PHP, SQL**</p>
+<p>- 🌱 I’m working with **HTML5, CSS3, Javascript, PHP, SQL...**</p>
 <a>- 📫 You can <a href="mailto:ferrarioloic.web@gmail.com">send me an email</a></p>
 <p>- 📄 Check <a target="_blank" href="https://ferrarioloic.github.io/CVNumerique/">my CV</a> to know about my experiences </p>
 <p>- ⚡ Fun fact **I created alone the E-learning site of my company**</p>
